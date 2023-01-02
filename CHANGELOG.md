@@ -1,5 +1,11 @@
 # Changelog
 
+## UNRELEASED (0.x.0)
+
+💥 **Breaking changes**
+
+- Minimum PHP version is now 8.1
+
 ## UNRELEASED (0.8.0)
 
 💥 **Breaking changes**
